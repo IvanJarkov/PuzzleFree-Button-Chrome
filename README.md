@@ -13,3 +13,6 @@ No build process required.
 
 ## Source code
 This repository contains the exact source code submitted to the browser extension store.
+
+## Addon
+https://chromewebstore.google.com/detail/puzzlefree-button/egieldcepidplbjjidfobbjnbghjikcf
